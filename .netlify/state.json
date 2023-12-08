@@ -1,0 +1,19 @@
+{
+	"geolocation": {
+		"data": {
+			"city": "Harker Heights",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "TX",
+				"name": "Texas"
+			},
+			"timezone": "America/Chicago",
+			"latitude": 31.0262,
+			"longitude": -97.6131
+		},
+		"timestamp": 1701289636882
+	}
+}
